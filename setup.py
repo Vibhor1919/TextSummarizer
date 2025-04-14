@@ -7,7 +7,7 @@ __version__="0.0.0"
 
 REPONAME="TextSummarizer"
 AUTHOR_USER_NAME="Vibhor1919"
-SRC_REPO="TextSummarzer"
+SRC_REPO="TextSummarizer"
 AUTHOR_EMAIL="vibhor1911@gmail.com"
 
 setuptools.setup(
